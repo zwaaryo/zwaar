@@ -1,12 +1,14 @@
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
-<meta   content="3cec57c26ee6263787bdf74071fc4380" name="propeller" />
-    <meta charset="utf-8">
+     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
+
+
+<meta name="propeller" content="3cec57c26ee6263787bdf74071fc4380">
 
     <title>{{ config('app.name', 'Zwaar') }} </title>
  
