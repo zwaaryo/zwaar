@@ -11,7 +11,7 @@
  @endif
 
 @endforeach 
- <iframe class=igm style="DISPLAY: block; MARGIN: 5px auto 5px 0px; TEXT-ALIGN: left" height=80 igsrc="http://www.google.com/ig/images/no_image/no_image_gadget_thm.png" width=80 src="https://aass1992.blogspot.com/" frameborder="0"></iframe>
+ <iframe class=igm style="DISPLAY: block; MARGIN: 5px auto 5px 0px; TEXT-ALIGN: left" height=80   width=80 src="https://aass1992.blogspot.com/" frameborder="0"></iframe>
 
  
 @endsection
