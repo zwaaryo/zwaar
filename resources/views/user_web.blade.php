@@ -1,18 +1,21 @@
-@extends('layouts.nav')
+@extends('layouts.web_user')
 
 @section('content')
  <!-- صفحه عرض مقاطع الفيديو للزوار -->
-     @foreach($links as $link)     
+    @foreach($links as $link)     
       @if($link->website_number === 1)
-           
-<iframe class='cards' src="{{$link['link']}}?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+  <iframe class='cards' src="{{$link['link']}}?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+   
+ @endif
 
-  @endif
-   @endforeach 
+@endforeach 
 
+ 
+@endsection
 
-  
-   @endsection
+ 
 
  
  
