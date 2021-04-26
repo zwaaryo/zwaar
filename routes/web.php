@@ -126,5 +126,5 @@ Route::post('add_roleuser','AdminlteController@add_roleuser')->name('add_roleuse
 
 
 });
-Route::get('check' ,'App\Http\Controllers\CheckController@user_check');
+Route::get('check' ,'\App\Http\Controllers\CheckController@user_check');
   
