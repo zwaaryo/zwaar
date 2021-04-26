@@ -82,7 +82,6 @@
  
     @endforeach       
     <div style="display:block;margin: 0 auto 0 auto;">
-    <img class="img2" alt="Responsive image" src='https://digitalmarketer.com/wp-content/uploads/2019/03/Fb-Ad-Template-Library-cta.gif'>
 
 </div>
   
