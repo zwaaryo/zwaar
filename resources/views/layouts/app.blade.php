@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 <head>
+<meta name="propeller" content="3cec57c26ee6263787bdf74071fc4380">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
