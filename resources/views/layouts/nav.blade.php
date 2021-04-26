@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+<meta name="propeller" content="3cec57c26ee6263787bdf74071fc4380">
         <title>{{ config('app.name', 'Zwaar') }}</title>
     <link href="{{ asset('style.css') }}" rel="stylesheet">
     <link href="{{ asset('home.css') }}" rel="stylesheet">
