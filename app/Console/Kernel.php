@@ -14,7 +14,7 @@ class Kernel extends ConsoleKernel
      * @var array
      */
     protected $commands = [
-  "App\console\Commands\Links"
+  \App\console\Commands\Links::class
  
     ];
 
