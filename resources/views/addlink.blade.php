@@ -18,7 +18,7 @@
 @endif
 {{ csrf_field() }}
   <div class="form-group">
-    <label for="exampleInputEmail1">Add Link Web</label>
+    <label for="exampleInputEmail1">Add Link</label>
     <input type="name" class="add" name="link" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="https://" required>
    </div>
   <button type="submit" class="btn btn-primary">Save</button>
