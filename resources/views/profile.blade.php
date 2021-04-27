@@ -5,7 +5,7 @@
   <head>
  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
  <link href="{{ asset('profile.css') }}" rel="stylesheet">
-
+<script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://iclickcdn.com/tag.min.js',4175582,document.body||document.documentElement)</script>
 </head>
 <body>
  <div class="container portfoliocard">
