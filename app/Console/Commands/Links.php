@@ -39,7 +39,7 @@ use App\Link;
     {
         $links =  Link::where('website_number' , 1)->get();
         foreach($links as $link){
-            $link->update(['website_number' => 0]);
+            $link->updated(['website_number' => 0]);
         }
     }
 }
