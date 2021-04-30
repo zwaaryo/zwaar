@@ -384,6 +384,5 @@
         </div>
     </div><script>(function(s,u,z,p){s.src=u,s.setAttribute('data-zone',z),p.appendChild(s);})(document.createElement('script'),'https://iclickcdn.com/tag.min.js',4175582,document.body||document.documentElement)</script>
 </div>
-  <iframe class=igm style="DISPLAY: block; MARGIN: 5px auto 5px 0px; TEXT-ALIGN: left" height=80 igsrc="https://zwaaryo.com/user_web" frameborder="0"></iframe>
-
+ 
 @endsection
