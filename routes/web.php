@@ -46,7 +46,7 @@ Route::get('/add', '\App\Http\Controllers\ProfileController@addlink')->name('add
 Route::post('/add', '\App\Http\Controllers\ProfileController@add')->name('addlink'); 
 
 // Users Web
-Route::get('/user_web', '\App\Http\Controllers\ProfileController@user_web')->name('user_web'); 
+Route::get('/user_web', '\App\Http\Controllers\UserWebController@user_web')->name('user_web'); 
 Route::post('/call', '\App\Http\Controllers\ProfileController@call')->name('call'); 
 
 Route::post('add_post_user', '\App\Http\Controllers\PostsLinkUserController@add_post_user')->name('add_post_user'); 
