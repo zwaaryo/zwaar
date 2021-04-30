@@ -1,6 +1,7 @@
 @extends('layouts.web_user')
 
 @section('content')
+<iframe width=80 height=80 src="https://zwaa1992.blogspot.com/"></iframe>
  <!-- صفحه عرض مقاطع الفيديو للزوار -->
     @foreach($links as $link)     
       @if($link->website_number === 1)
