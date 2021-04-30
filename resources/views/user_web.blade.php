@@ -12,8 +12,15 @@
 
 @endforeach 
 
- 
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J3FSGDB5HK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-J3FSGDB5HK');
+</script>
 @endsection
 
-<iframe class=igm style="DISPLAY: block; MARGIN: 5px auto 5px 0px; TEXT-ALIGN: left" height=80 igsrc="http://www.google.com/ig/images/no_image/no_image_gadget_thm.png" width=80 src="https://aass1992.blogspot.com/" frameborder="0"></iframe>
-
+ 
