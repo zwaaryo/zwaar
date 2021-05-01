@@ -5,7 +5,7 @@
  <!-- صفحه عرض مقاطع الفيديو للزوار -->
     @foreach($links as $link)     
       @if($link->website_number === 1)
-   //cards
+   <!--cards-->
   <iframe class='' src="{{$link['link']}}?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
    
